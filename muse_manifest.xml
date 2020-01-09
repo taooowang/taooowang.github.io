@@ -1,0 +1,42 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="taooo.com" resolutions="1x" timestamp="1578576033140">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="why.css" crc="3811536505" ref="why"/>
+    <file name="wind.css" crc="3936336674" ref="wind"/>
+    <file name="wave.css" crc="3905639623" ref="wave"/>
+    <file name="index.css" crc="182488791" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:wave:wind:why"/>
+    <file name="museutils.js" crc="4216313831" ref="index:wave:wind:why"/>
+    <file name="whatinput.js" crc="86476730" ref="index:wave:wind:why"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:wave:wind:why"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:wave:wind:why"/>
+    <file name="require.js" crc="3951022091" ref="index:wave:wind:why"/>
+  </folder>
+  <folder name="images">
+    <file name="u94-4.png" crc="266632597" ref="index"/>
+    <file name="2.jpg" crc="297632659" seo="true" ref="index:wave">
+      <caption webpage="index" alt=""/>
+      <caption webpage="wave" alt=""/>
+    </file>
+    <file name="u139-14.png" crc="3764541753" ref="index"/>
+    <file name="u111-6.png" crc="3772684614" ref="index"/>
+    <file name="u136-4.png" crc="266632597" ref="wave"/>
+    <file name="u169-6.png" crc="3772684614" ref="wave"/>
+    <file name="u184-4.png" crc="266632597" ref="wind"/>
+    <file name="1.jpg" crc="4156857035" seo="true" ref="wind">
+      <caption webpage="wind" alt=""/>
+    </file>
+    <file name="u197-6.png" crc="3772684614" ref="wind"/>
+    <file name="u212-4.png" crc="266632597" ref="why"/>
+    <file name="3.jpg" crc="273817255" seo="true" ref="why">
+      <caption webpage="why" alt=""/>
+    </file>
+    <file name="u225-6.png" crc="3772684614" ref="why"/>
+  </folder>
+  <file name="index.html" crc="4022530798" seo="true" mt="1578576017439" redirect="true"/>
+  <file name="wave.html" crc="84390961" seo="true" mt="1578575785712" redirect="true"/>
+  <file name="wind.html" crc="4144525224" seo="true" mt="1578575846227" redirect="true"/>
+  <file name="why.html" crc="1328015" seo="true" mt="1578575917063" redirect="true"/>
+</manifest>
